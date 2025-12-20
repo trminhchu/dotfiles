@@ -15,3 +15,5 @@ https://rr1-ateme.tv360.vn/live/eds/448/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJ
 https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjYyMzgyNDYsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.au4bhqeNMoQ6mXmkpf7DvQtWAXvEqm1XcaFPgg7b8Aw&minrate=0&maxrate=5000000&uid=0
 #EXTINF:-1,NHK World
 https://vod-n07-hlc.tv360.vn:18443/276.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycRU25ir+dtkm8fA12cfpgdaz6kch1MKaFPkqEnMiiW5ftw5Qdm0U5q16UpFyx9e4e+KfIj9o2JAaLL/B4otqJ6NWI9EibKhreWwQkOOg/mjrTF4yz0XYKfYXcf8H78N7o1R+e8aQar+mzFZbRXEyf5fW+RoYfa/2laCS2MK1qBvoU18ELgYpY8wU3xzaSviwhw==&uid=42.118.186.128&SessionID=2f86838e-a7e7-4af7-b2f3-d58aa646b8f4&StreamID=d839828e-7ba2-474c-9014-661bb58a444e&MinBw=0&MaxBw=2000000
+#EXTINF:-1,VTV 2
+https://vtvgolive-ssaimh.vtvdigital.vn/fqs_zN2oNWVjWP0qiM6H8w/1766235668/manifest/vtv2/master.m3u8
